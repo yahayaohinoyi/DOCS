@@ -1,8 +1,8 @@
 # DOCS
 
-https://georgebridgeman.com/exercises/
-
 https://www.geeksforgeeks.org/computer-science-projects/?ref=shm
+
+https://georgebridgeman.com/exercises/
 
 https://github.com/tuhdo/os01
 
